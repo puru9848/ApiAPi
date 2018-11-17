@@ -1,0 +1,306 @@
+GET http://localhost:8000/puru/v1/transaksi/6/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054707.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/22/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054639.200.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/2/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054630-1.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/2/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054630.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/55/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054625-1.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/55/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054625.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/55/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054624-1.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/55/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054624.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/5/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054618.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/4/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054611.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/4/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054610.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/4/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054608.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/4/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054607.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/2/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054550.201.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/2/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054546.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/2/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054542.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054536.200.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054531.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru2",  	"jumlah": 13999  }
+
+<> 2018-11-16T054526.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "puru1",  	"jumlah": 12999  }
+
+<> 2018-11-16T054513.201.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/1/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T054449.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/1/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T054448-1.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/1/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T054448.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/1/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T054447.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/1/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T054446.200.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T053712.200.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T053607.201.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T053603.405.json
+
+###
+
+POST http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+{ 	"deskripsi": "abababba", 	"jumlah": 12333  }
+
+<> 2018-11-16T053231.405.json
+
+###
+
+GET http://localhost:8000/puru/v1/transaksi/
+Accept: */*
+Authorization: Token 957c2cae041370d226462c366fe7e59fb45d8313
+
+<> 2018-11-16T053152.200.json
+
+###
+

@@ -1,0 +1,39 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "deskripsi": "abababba",
+      "jumlah": "12333.00",
+      "dibuat": "2018-11-16",
+      "diubah": "2018-11-16",
+      "prmilik": 2
+    },
+    {
+      "id": 2,
+      "deskripsi": "puru1",
+      "jumlah": "12999.00",
+      "dibuat": "2018-11-16",
+      "diubah": "2018-11-16",
+      "prmilik": 2
+    },
+    {
+      "id": 3,
+      "deskripsi": "puru2",
+      "jumlah": "13999.00",
+      "dibuat": "2018-11-16",
+      "diubah": "2018-11-16",
+      "prmilik": 2
+    },
+    {
+      "id": 4,
+      "deskripsi": "puru2",
+      "jumlah": "13999.00",
+      "dibuat": "2018-11-16",
+      "diubah": "2018-11-16",
+      "prmilik": 2
+    }
+  ]
+}
